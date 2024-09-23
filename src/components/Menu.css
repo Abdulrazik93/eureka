@@ -1,0 +1,31 @@
+/* src/components/Menu.css */
+.menu {
+    margin: 1.5rem 0;
+  }
+  
+  .menu-item {
+    cursor: pointer;
+    background-color: #f0f0f0;
+    padding: 0.8rem;
+    border: 1px solid #ccc;
+  }
+  
+  .menu-item:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .submenu {
+    margin-left: 1.5rem;
+    padding: 0.8rem;
+    background-color: #fafafa;
+  }
+  
+  .submenu a {
+    text-decoration: none;
+    color: #007BFF;
+  }
+  
+  .submenu a:hover {
+    text-decoration: underline;
+  }
+  

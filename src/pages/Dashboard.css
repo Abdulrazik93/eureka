@@ -1,0 +1,11 @@
+/* src/pages/Dashboard.css */
+.container {
+    padding: 1rem;
+  }
+  
+  .page-content {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
